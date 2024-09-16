@@ -1,0 +1,19 @@
+*{
+    padding: 0%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+p{
+    font-size: 110px;
+}
+.timer{
+    background-color: aquamarine;
+}
+script{
+    display: none;
+}
+timer_main{
+    display: flex;
+    flex-direction: column;
+}
